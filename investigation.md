@@ -7,7 +7,7 @@ According to Mayo Clinic men need to consume around 3.7L of water in a day and w
 
 There are roughly 25cl of water in a standard glass.
 
-Therefore men need too consume roughly $`\15 frac{5}{12}`$ glasses of water in a day and women need to consume 11.25
+Therefore men need too consume roughly $\`15 frac{5}{12}\`$ glasses of water in a day and women need to consume 11.25
 
 
 
